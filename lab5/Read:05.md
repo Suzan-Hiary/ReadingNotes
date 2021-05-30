@@ -3,8 +3,8 @@
 In programming languages, loops are used to execute a set of instructions **OR** functions repeatedly when some conditions become true. There are three types of loops in Java 
 
 * for loop
-* [while loop](#Whileloop)
-* do-while loop 
+* [while loop](whileloop.md)
+* [do-while loop ](do-whileloop.md)
 
 ![Loops](https://static.javatpoint.com/images/java-loops.png)
 
