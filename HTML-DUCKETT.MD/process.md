@@ -7,8 +7,7 @@ target audience—not just for yourself or the
 site owner. It is therefore very important to 
 understand who your target audience is.
 
-
-### ** Why People Visit YOUR Website? **
+ ###  ** Why People Visit YOUR Website? **
 Now that you know who your visitors are, you 
 need to consider why they are coming. While 
 some people will simply chance across your 
@@ -20,8 +19,7 @@ reason why someone visits your site but you
 are looking for key tasks and motivations. This 
 information can help guide your site designs.
 
-
- ### ** What Information Your Visitors Need ? ** 
+### ** What Information Your Visitors Need ? ** 
  You know who is coming to your site and why 
 they are coming, so now you need to work out 
 what information they need in order to achieve 
