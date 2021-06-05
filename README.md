@@ -1,7 +1,7 @@
-# ReadingNotes
+# ** ReadingNotes**
 
 
-## Table of content :
+## * Table of content *  :
 
 code  102 | code 201
 -------------|-------------|
