@@ -5,8 +5,8 @@
 
 code  102 | code 201
 -------------|-------------|
-[Growthmindest](Read01.md) | 1|
-[Git](Read02.md)|2|
+[Growthmindest](Read01.md) | class-01.md|
+[Git](Read02.md)|class-02.md|
 [Wireframe](Read03.md)|3|
 [JavaScript](Read06.md) |4|
 [Loops](Read:05.md)|5|
