@@ -1,7 +1,7 @@
 # HTML & JAVASCRIPT & CSS:
 
 * [** HTML Text **](class-02.md)
-* [** Css **](css.md)
+* [** Css **](CSS.md)
 * [** JS instructions **](javascript.md)
 * [**decisions & loops **]()
 
