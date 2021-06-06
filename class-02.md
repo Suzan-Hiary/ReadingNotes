@@ -2,10 +2,10 @@
 
 * [** HTML Text **](class-02.md)
 * [** Css **](css.md)
-* [** JS instructions **]()
+* [** JS instructions **](javascript.md)
 * [**decisions & loops **]()
 
-![LOGO])
+
 
 ## HTML Text Formatting :
 HTML contains several elements for defining text with a special meaning.
