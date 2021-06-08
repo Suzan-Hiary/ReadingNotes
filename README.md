@@ -10,7 +10,7 @@ code  102 | code 201
 [Growthmindest](Read01.md) | [class-01.md](Introductory.md)|
 [Git](Read02.md)|[class-02.md](class-02.md)|
 [Wireframe](Read03.md)|[class-03](class-03.md)|
-[JavaScript](Read06.md) |4|
+[JavaScript](Read06.md) |[class-04](class-04.md)|
 [Loops](Read:05.md)|5|
 [functions]()|6|
 [CSS](Read06b.md)|7|
