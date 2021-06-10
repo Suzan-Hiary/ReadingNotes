@@ -1,10 +1,10 @@
 # ** Tabel of content : **
 
-HTML  |  JAVASCRIPT |
+HTML  | 
 ---------|-----------|
-[HTML images]() | [Basic JavaScript Instructions](basic.md)|
-[Color](BOXES.md)      | [switch statements ](switch.md) |
-[Text](BOXES.md)      | [switch statements ](switch.md) |
+[HTML images]() | 
+[Color](BOXES.md)      | 
+[Text](BOXES.md)      | 
 
 
 ## ** HTML images **
