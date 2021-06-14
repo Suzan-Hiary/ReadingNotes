@@ -13,7 +13,7 @@ code  102 | code 201
 [JavaScript](Read06.md) |[class-04](class-04.md)|
 [Loops](Read:05.md)|[class-05](class-05.md)|
 [functions]()|[class-06](class-06.md)|
-[CSS](Read06b.md)|7|
+[CSS](Read06b.md)|[class-07](class-07.md)|
  ---- |8|
   ---- |9|
    ---- |10|
