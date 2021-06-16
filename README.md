@@ -14,14 +14,9 @@ code  102 | code 201
 [Loops](Read:05.md)|[class-05](class-05.md)|
 [functions]()|[class-06](class-06.md)|
 [CSS](Read06b.md)|[class-07](class-07.md)|
-<<<<<<< HEAD
  ---- |[class-08](class-08.md)|
   ---- |[class-09](class-09.md)|
-=======
- ---- |8|
-  ---- |9|
->>>>>>> b6ca365aca7e12cf65adee7b5b4ec263d18946ae
-   ---- |10|
+   ---- |[class-10](class-10.md)|
     ---- |11|
      ---- |12|
       ---- |13|
