@@ -17,7 +17,11 @@ code  102 | code 201 | code 301  | Code 401 |
  |     
 [Growthmindest](Read01.md) | [class-01.md](Introductory.md)| [class-01](301-class01.md)|[class-01](./401/class01.md)|
 [Git](Read02.md)|[class-02.md](class-02.md)|[class-02](301-class02.md) |[class-02](./401/class02.md)|
+<<<<<<< HEAD
 [Wireframe](Read03.md)|[class-03](class-03.md)|[class-03](301-class03.md) |[class-03](./401/class03.md)|
+=======
+[Wireframe](Read03.md)|[class-03](class-03.md)|[class-03](301-class03.md) ||
+>>>>>>> ff0adb72bdc53eb055f97305e353b27e80183c91
 [JavaScript](Read06.md) |[class-04](class-04.md)| [class-04](301-class04.md) ||
 [Loops](Read:05.md)|[class-05](class-05.md)| [class-05](301-class05.md)||
 [functions]()|[class-06](class-06.md)|[class-06](301-class06.md) ||
