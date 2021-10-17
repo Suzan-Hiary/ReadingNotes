@@ -21,7 +21,7 @@ code  102 | code 201 | code 301  | Code 401 |
 [JavaScript](Read06.md) |[class-04](class-04.md)| [class-04](301-class04.md) |[class-04](./401/class04.md)|
 [Loops](Read:05.md)|[class-05](class-05.md)| [class-05](301-class05.md)|[class=05]()|
 [functions]()|[class-06](class-06.md)|[class-06](301-class06.md) |[class=06](./401/class04.md)|
-[CSS](Read06b.md)|[class-07](class-07.md)| [class-07](301-class07.md)||
+[CSS](Read06b.md)|[class-07](class-07.md)| [class-07](301-class07.md)|[class-07](./401/class07.md)|
  ---- |[class-08](class-08.md)| [class-08](301-class08.md)||
   ---- |[class-09](class-09.md)| [class-09](301-class09.md)||
    ---- |[class-10](class-10.md)| [class-10](301-class-10.md)||
