@@ -24,7 +24,7 @@ code  102 | code 201 | code 301  | Code 401 |
 [CSS](Read06b.md)|[class-07](class-07.md)| [class-07](301-class07.md)|[class-07](./401/class07.md)|
  ---- |[class-08](class-08.md)| [class-08](301-class08.md)|[class-08](./401/class08.md)|
   ---- |[class-09](class-09.md)| [class-09](301-class09.md)|[class-09](./401/class09.md)|
-   ---- |[class-10](class-10.md)| [class-10](301-class-10.md)|_|
+   ---- |[class-10](class-10.md)| [class-10](301-class-10.md)|[Read: Stacks & Queues](./401/class10.md)|
     ---- |[class-11](class-11.md)| [class-11](301-class-11.md)|[class-11](./401/class11.md)|
     ---- |[class-12](class012.md)| [class-12](301-class-12.md)|[class-12](./401/class12.md)|
     ----| |[class-13](301-class-13.md) |class-13[](./401/class13.md)|
