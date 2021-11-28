@@ -25,7 +25,7 @@ code  102 | code 201 | code 301  | Code 401-P1|Code 401-P2
 ---- |[class-09](class-09.md)| [class-09](301-class09.md)|[class-09](./401/class09.md)|[class-34](./401/class34.md)
 ---- |[class-10](class-10.md)| [class-10](301-class-10.md)|[Read: Stacks & Queues](./401/class10.md)|[class-35](/401/class35.md)
 ---- |[class-11](class-11.md)| [class-11](301-class-11.md)|[class-11](./401/class11.md)|[class-36](./401/class36.md)
----- |[class-12](class012.md)| [class-12](301-class-12.md)|[class-12](./401/class12.md)|
+---- |[class-12](class012.md)| [class-12](301-class-12.md)|[class-12](./401/class12.md)|[class-37](./401/class37.md)
 ----| |[class-13](301-class-13.md) |[class-13](./401/class13.md)|
 ---- | |[class-14](301-class-14.md) [class-14b](class-14.md) |[class-14](./401/class-14.md)|
 ----| | [class-15](class15.md)|[class-15](./401/class15.md)|
